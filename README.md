@@ -6,3 +6,4 @@ Language: `C`
 |----|---|-------|-------|----|
 |23/06/27|1|Two Sum|152ms|`Array`|
 |23/07/01|1|Two Sum|7ms|`Hash`|
+|23/07/01|3|Longest Substring Without Repeating Characters|22ms|`dynamic programming`|
