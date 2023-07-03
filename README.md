@@ -1,6 +1,7 @@
 # Leetcode
 2023/06/27 new beginning✴️<br>
 Language: `C`
+正在刷[Blind Curated 75](https://leetcode.com/list/xoqag3yj/)當中
 
 |Date|idx|Problem|Runtime|tags|
 |----|---|-------|-------|----|
