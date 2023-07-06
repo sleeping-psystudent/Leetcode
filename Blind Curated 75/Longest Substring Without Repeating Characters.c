@@ -1,4 +1,5 @@
 //2023/07/01
+//character這個陣列會紀錄每個字母上一次出現的位置，當前字母上一次出現的位置如果在現有子字串內（比start也就是起始點還大），就將字串起點改成該字母上一次出現位置的下一個元素
 int lengthOfLongestSubstring(char * s){
     int i;
     int start=0;
