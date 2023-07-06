@@ -1,5 +1,6 @@
 //2023/07/06
-//
+//先使用merge sort排序，因為他的worst case時間複雜度O(nlogn)很優。接著做map跟出現次數計算的hash，因爲我希望可以O(1)就確認第三個數字是否存在於數列當中
+//一直TLE是因為剛開始prime設太小了，哭
 void merge(int arr[],int l,int m,int r){
     int i,j,k;
     int n1=m-l+1;
@@ -96,7 +97,6 @@ int** threeSum(int* nums, int numsSize, int* returnSize, int** returnColumnSizes
                 if((*returnSize)!=0 && (*returnSize)>=4096 && (*returnSize)%space==0){
                     *returnColumnSizes=(int*)realloc(*returnColumnSizes,sizeof(int*)*((*returnSize)+space));
                     ans=(int**)realloc(ans,sizeof(int*)*((*returnSize)+space));
-
                 }
                 (*returnColumnSizes)[*returnSize]=3;
                 ans[*returnSize]=(int*)malloc(sizeof(int)*3);
