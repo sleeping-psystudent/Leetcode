@@ -1,4 +1,4 @@
-# Leetcode
+ya# Leetcode
 2023/06/27 new beginning✴️<br>
 Language: `C`<br>
 正在刷[Blind Curated 75](https://leetcode.com/list/xoqag3yj/)當中
@@ -15,3 +15,4 @@ Language: `C`<br>
 |23/07/06|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=list&envId=rapfhont)|$O(n)$|`Stack`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Valid%20Parentheses.c)|
 |23/07/07|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/987943168/?envType=list&envId=rapfhont)|$O(n+m)$|`Linked List`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Merge%20Two%20Sorted%20Lists.c)|
 |23/07/07|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/?envType=list&envId=rapfhont)|$O(Nk\log k)$|`Heap`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Merge%20k%20Sorted%20Lists.c)|
+|23/07/08|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=list&envId=rapfhont)|$O(\log n)$|`Binary Search`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Search%20in%20Rotated%20Sorted%20Array.c)|
