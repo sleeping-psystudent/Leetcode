@@ -1,4 +1,4 @@
-ya# Leetcode
+# Leetcode
 2023/06/27 new beginning✴️<br>
 Language: `C`<br>
 正在刷[Blind Curated 75](https://leetcode.com/list/xoqag3yj/)當中
@@ -20,3 +20,4 @@ Language: `C`<br>
 |23/07/11|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=list&envId=rapfhont)|$O(n)$|`String` `Sort`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Group%20Anagrams.c)|
 |23/07/11|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/?envType=list&envId=rapfhont)|$O(n)$|`Dynamic Programming`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Maximum%20Subarray.c)|
 |23/07/13|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=list&envId=rapfhont)|$O(n)$|`Array`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Spiral%20Matrix.c)|
+|23/07/13|55|[Jump Game](https://leetcode.com/problems/jump-game/description/?envType=list&envId=rapfhont)|$O(n)$|`Dynamic Programming`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Jump%20Game.c)|
