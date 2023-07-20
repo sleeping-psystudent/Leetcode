@@ -22,3 +22,4 @@ Language: `C`<br>
 |23/07/13|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=list&envId=rapfhont)|$O(n)$|`Array`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Spiral%20Matrix.c)|
 |23/07/13|55|[Jump Game](https://leetcode.com/problems/jump-game/description/?envType=list&envId=rapfhont)|$O(n)$|`Dynamic Programming`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Jump%20Game.c)|
 |23/07/20|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/999437438/envType=list&envId=rapfhont/)|$O(n)$|`Dynamic Programming`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Climbing%20Stairs.c)|
+|23/07/21|100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|$O(\log n)$|`Binary Tree`|[Click](https://github.com/sleeping-psystudent/Leetcode/blob/main/Blind%20Curated%2075/Same%20Tree.c)|
